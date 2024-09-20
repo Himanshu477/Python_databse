@@ -1,0 +1,4 @@
+from scipy_distutils.misc_util import add_grandparent_to_path, restore_path
+from scipy_distutils.misc_util import add_local_to_path
+
+add_grandparent_to_path(__name__)

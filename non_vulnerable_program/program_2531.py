@@ -1,0 +1,2 @@
+    from cStringIO import StringIO
+
